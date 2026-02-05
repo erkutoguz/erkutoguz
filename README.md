@@ -33,13 +33,6 @@ I'm a developer with a passion for music, movies and problem solving. I build pr
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutoguz&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
----
-
 ## Projects
 - **[Moviever](https://github.com/erkutoguz/moviever-backend)** – Movie review platform. Built with Spring Boot and React
 - **[DSA with C](https://github.com/erkutoguz/erkt_dsa)** – Implementing DSA with C language.
