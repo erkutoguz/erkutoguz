@@ -34,5 +34,6 @@ I'm a developer with a passion for music, movies and problem solving. I build pr
 ---
 
 ## Projects
-- **[Moviever](https://github.com/erkutoguz/moviever-backend)** – Movie review platform. Built with Spring Boot and React
-- **[DSA with C](https://github.com/erkutoguz/erkt_dsa)** – Implementing DSA with C language.
+- **[ErktDB](https://github.com/erkutoguz/erktdb)** – Custom database implementation project
+- **[ErktVM](https://github.com/erkutoguz/erktvm)** – 16-bit virtual machine written in C
+- **[FindAway](https://github.com/erkutoguz/findaway)** – Location-based discovery application
