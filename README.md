@@ -1,39 +1,103 @@
-# Hi, I'm Erkut Oğuz
-**`Always learning (developer/musician/movie lover)`**
-
-I'm a developer with a passion for music, movies and problem solving. I build projects from the ground up, focusing on clean architecture, thoughtful design, and practical solutions.
+<h1 align="center">Erkut Oğuz</h1>
+<h3 align="center">Systems Engineer in the making | Low-level enthusiast </h3>
 
 ---
 
 ## About Me
-- Studying **Computer Engineering** in Antalya, Turkey  
-- Currently learning **Data Structures & Algorithms** with C  
-- Passionate about **music and movies**, and learning piano  
-- Interested in **low-level programming**, **problem solving**, and **music theory**  
-- Contact: [LinkedIn](https://www.linkedin.com/in/erkut-oguz/) | [Email](mailto:erkutoguz.eo@gmail.com)
+
+I’m a Computer Engineering student focused on **systems programming**, **performance**, and **understanding software at a fundamental level**.
+
+- Interested in:
+  - Operating Systems  
+  - Memory Management  
+  - CPU-level thinking  
+  - Performance optimization
+    
+---
+
+## Engineering Philosophy
+
+- Build from **first principles**
+- Prefer **understanding over memorization**
+- Write code that is **predictable, debuggable, and efficient**
+- Focus on **mechanics, not just abstractions**
 
 ---
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-</br>
-![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Tech Stack
+
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=c,linux" />
+</p>
+
+### Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### Web
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js" />
+</p>
+
+### Data
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python" />
+</p>
 
 ---
 
-## Projects
-- **[ErktDB](https://github.com/erkutoguz/erktdb)** – Custom database implementation project
-- **[ErktVM](https://github.com/erkutoguz/erktvm)** – 16-bit virtual machine written in C
-- **[FindAway](https://github.com/erkutoguz/findaway)** – Location-based discovery application
+##  Projects
+
+###  ErktDB — Custom Database Engine
+> A low-level key-value store built from scratch
+
+- Event-driven architecture (epoll-based)
+- Manual memory management
+- Custom serialization
+- Focus on performance & control
+
+🔗 https://github.com/erkutoguz/erktdb
+
+---
+
+###  ErktVM — 16-bit Virtual Machine
+> Simulating a CPU from scratch
+
+- Fetch → Decode → Execute cycle
+- Instruction set design
+- Register & memory model
+- Bitwise operations and control flow
+
+🔗 https://github.com/erkutoguz/erktvm
+
+---
+
+### FindAway — Discovery Platform
+> Location-based recommendation system
+
+- Fullstack architecture
+- Real-world usability focus
+- Scalable design mindset
+
+🔗 https://github.com/erkutoguz/findaway
+
+---
+
+## Current Focus
+
+- Deep diving into:
+  - Memory layout
+  - Pointers & low-level abstractions
+  - Process & system calls
+- Building projects that:
+  - Force me to understand internals
+  - Break my assumptions
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/erkut-oguz/
+- Email: erkutoguz.eo@gmail.com
