@@ -4,8 +4,6 @@
 
 I build backend systems with Java and Spring Boot, mostly event-driven services on PostgreSQL and Kafka. I also write systems code in C to understand what happens below the frameworks.
 
-📍 [LOCATION], Türkiye · Open to remote and relocation
-
 ---
 
 ## Projects
