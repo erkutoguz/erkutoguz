@@ -39,10 +39,10 @@ Key-value store written from scratch in C: non-blocking TCP server with `epoll`,
 
 LC-3 (16-bit) virtual machine: fetch–decode–execute loop, 16 opcodes, memory-mapped I/O.
 
-[### [FindAway](https://github.com/erkutoguz/findaway)
+### [FindAway](https://github.com/erkutoguz/findaway)
 `C` `Raylib`
 
-Grid-based pathfinding visualiser: A* and Dijkstra with a hand-written binary min-heap.]
+Grid-based pathfinding visualiser: A* and Dijkstra with a hand-written binary min-heap. 
 
 ---
 
